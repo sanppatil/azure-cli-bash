@@ -1,3 +1,5 @@
+#Script Name - send-msg-2-entity.sh
+
 RESOURCE_URI=$1
 SHARED_ACCESS_KEY_NAME=$2
 SHARED_ACCESS_KEY=$3
